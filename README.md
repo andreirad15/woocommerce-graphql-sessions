@@ -23,3 +23,4 @@ Set the allowed origin for your frontend in your `wp-config.php` file:
 ```php
 putenv('GRAPHQL_ALLOWED_ORIGIN=https://your-frontend.com');
 ```
+# woocommerce-graphql-sessions
