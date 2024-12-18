@@ -105,6 +105,8 @@ query {
 
 ### Query WooCommerce Add-Ons
 
+🌐 [GitHub](https://github.com/andreirad15/yith-product-addons-graphql)
+
 ```graphql
 query {
   product(id: "cG9zdDo1") {
