@@ -15,5 +15,6 @@ add_action('plugins_loaded', function () {
     require_once WCGS_PLUGIN_DIR . 'includes/cors.php';
     require_once WCGS_PLUGIN_DIR . 'includes/session.php';
     require_once WCGS_PLUGIN_DIR . 'includes/graphql.php';
+    require_once WCGS_PLUGIN_DIR . 'includes/graphql-site-logo.php';
     require_once WCGS_PLUGIN_DIR . 'includes/debug.php';
 });
